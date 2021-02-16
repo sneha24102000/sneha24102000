@@ -13,7 +13,6 @@
 
 <p align="left"> <a href="https://twitter.com/snehara76137026" target="blank"><img src="https://img.shields.io/twitter/follow/snehara76137026?logo=twitter&style=for-the-badge" alt="snehara76137026" /></a> </p>
 
-### CONNECT WITH ME VIA :
 
 <h3 align="left">Connect with me via:</h3>
 <p align="left">
