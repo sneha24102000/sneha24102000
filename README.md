@@ -5,7 +5,7 @@
 - 🌱 Currently studying B.Tech in Computer Science and Engineering from University Of Engineering and Management Kolkata(2018-2022) 
 - 👯 Practising Frontend Web Development and a Machine Learning Enthusiast
 - 🌱 I’m currently learning everything
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Just to learn more and more and contribute more to Open Source projects
 - ⚡ Fun fact: I love to drawing and Sketching
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha24102000&label=Profile%20views&color=0e75b6&style=flat" alt="sneha24102000" /> </p>
