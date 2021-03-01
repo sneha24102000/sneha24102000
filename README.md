@@ -4,6 +4,7 @@
 
 - 🌱 Currently studying B.Tech in Computer Science and Engineering from University Of Engineering and Management Kolkata(2018-2022) 
 - 👯 Practising Frontend Web Development and a Machine Learning Enthusiast
+- 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to drawing and Sketching
 
