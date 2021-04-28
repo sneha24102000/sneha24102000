@@ -7,7 +7,7 @@
 - 👯 Machine Learning Enthusiast
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Just to learn more and more and contribute more to Open Source projects
-- ⚡ Fun fact: I love to drawing and Sketching
+- ⚡ Fun fact: I love Sketching
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha24102000&label=Profile%20views&color=0e75b6&style=flat" alt="sneha24102000" /> </p>
 
