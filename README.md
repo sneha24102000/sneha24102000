@@ -21,7 +21,7 @@
 <a href="https://twitter.com/snehara76137026" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="snehara76137026" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sneha-m-286642172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sneha-m-286642172/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/sneha244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sneha244" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_snehaaa_aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sn.e_haa/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sn.e_haa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sn.e_haa/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxe2c99jdm9lubd1me0qpza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucxe2c99jdm9lubd1me0qpza" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/cse_3e_60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/cse_3e_60" height="30" width="40" /></a>
 </p>
