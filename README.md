@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha24102000" alt="sneha24102000" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/snehara76137026" target="blank"><img src="https://img.shields.io/twitter/follow/snehara76137026?logo=twitter&style=for-the-badge" alt="snehara76137026" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Snehahahahaok" target="blank"><img src="https://img.shields.io/twitter/follow/Snehahahahaok?logo=twitter&style=for-the-badge" alt="Snehahahahaok" /></a> </p>
 
 
 <h3 align="left">Connect with me via:</h3>
