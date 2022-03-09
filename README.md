@@ -43,6 +43,7 @@
    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
     
   
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>  
