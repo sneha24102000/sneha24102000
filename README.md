@@ -4,9 +4,12 @@
 
 - 🌱 Currently studying B.Tech in Computer Science and Engineering from University Of Engineering and Management Kolkata(2018-2022) 
 - 👯 Work Experience : Currently Working as Software Development Engineer (Intern+FTE) @Accolite Digital   
-- 🌱 I’m currently learning solidity to build smart contracts for NFT minting website and DApps.  
+- 🌱 I’m currently learning solidity to build smart contracts for NFT minting websites and DApps.  
 - 🥅 2022 Goals: Deep Dive into Web3.0
-- ⚡ Fun fact: I love Sketching
+- ⚡ Fun fact: I love Sketching 
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha24102000&label=Profile%20views&color=0e75b6&style=flat" alt="sneha24102000" /> </p>
 
