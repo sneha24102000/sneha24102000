@@ -8,7 +8,10 @@
 - 🥅 2022 Goals: Deep Dive into Web3.0
 - ⚡ Fun fact: I love Sketching 
 
+## 💻 Workspace Spec [🔝]
+<img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> | `https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white`
 <img align="center" alt="GIF" src="https://github.com/sneha24102000/sneha24102000/blob/master/68747470733a2f2f75706c696674636f72726563742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f35353533372d6769726c2d6f6e2d636f6d70757465722d776974682d696465612e676966.gif" width="500" height="320"/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha24102000&label=Profile%20views&color=0e75b6&style=flat" alt="sneha24102000" /> </p>
