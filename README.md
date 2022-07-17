@@ -3,7 +3,9 @@
 
 
 - 🌱 Currently studying B.Tech in Computer Science and Engineering from University Of Engineering and Management Kolkata(2018-2022) 
-- 👯 Work Experience : Currently Working as Software Development Engineer (Intern+FTE) @Accolite Digital   
+- 👯 Work Experience : 
+     Currently working as Associate Software Engineer @Morgan Stanley
+     Ex- Software Development Engineer Intern @Accolite Digital   
 - 🌱 I’m currently learning solidity to build smart contracts for NFT minting websites and DApps.  
 - 🥅 2022 Goals: Deep Dive into Web3.0
 - ⚡ Fun fact: I love Sketching 
