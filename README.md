@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
 
-- 🌱 Currently studying B.Tech in Computer Science and Engineering from University Of Engineering and Management Kolkata(2018-2022) 
+- 🌱 I have done B.Tech in Computer Science and Engineering from University Of Engineering and Management Kolkata(2018-2022) 
 - 👯 Work Experience : 
      Currently working as Associate Software Engineer @Morgan Stanley
      Ex- Software Development Engineer Intern @Accolite Digital   
