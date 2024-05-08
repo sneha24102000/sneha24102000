@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
 
-- 🌱 I have done B.Tech in Computer Science and Engineering from University Of Engineering and Management Kolkata(2018-2022) with GPA of 9.02 
-- 👯 Work Experience : Frontend DEV@MorganStanley  
+- 🌱 I have done B.Tech in Computer Science and Engineering from University Of Engineering and Management Kolkata(2018-2022) with GPA of 9.02   
 - 🌱 I’m currently learning solidity to build smart contracts for NFT minting websites and DApps.  
 - 🥅 2022 Goals: Deep Dive into Web3.0
 - ⚡ Fun fact: I love Sketching 
